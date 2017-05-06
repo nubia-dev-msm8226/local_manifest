@@ -1,0 +1,13 @@
+    repo init -u git://github.com/CyanogenMod/android.git -b cm-14.1
+    mkdir -p .repo/local_manifests
+    wget https://raw.githubusercontent.com/nubia-dev-msm8226/local_manifest/cm-14.1/nx404h.xml -O .repo/local_manifests/nx404h.xml
+
+Then to sync up:
+
+    repo sync -j8
+
+To build:
+
+    . build/envsetup.sh
+    lunch cm_NX404H-userdebug
+    mka bacon

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<project name="LineageOS/android_device_qcom_common" path="device/qcom/common" remote="github" revision="cm-14.1" />
+<project name="LineageOS/android_packages_apps_FlipFlap" path="packages/apps/FlipFlap" remote="github" revision="cm-14.1" />
+<project name="LineageOS/android_hardware_qcom_fm" path="hardware/qcom/fm" remote="github" revision="cm-14.1" />
+<project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="cm-14.1" />
+<project name="LineageOS/android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" remote="github" revision="cm-14,1" />
+<!-- Vendor Blobs -->
+<project name="nubia-dev-msm8226/android_vendor_nubia_nx404h" path="vendor/NUBIA/NX404H" remote="github" revision="cm-14.1" />
+<!-- Device tree -->
+<project name="nubia-dev-msm8226/android_device_nubia_nx404h" path="device/NUBIA/NX404H" remote="github" revision="cm-14.1" />
+<!-- Kernel -->
+<project name="nubia-dev-msm8226/android_kernel_nubia_msm8226" path="kernel/NUBIA/MSM8226" remote="github" revision="mkm" />
+</manifest>
