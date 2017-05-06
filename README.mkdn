@@ -1,4 +1,4 @@
-    repo init -u git://github.com/CyanogenMod/android.git -b cm-14.1
+    repo init -u git://github.com/LineageOS/android.git -b cm-14.1
     mkdir -p .repo/local_manifests
     wget https://raw.githubusercontent.com/nubia-dev-msm8226/local_manifest/cm-14.1/nx404h.xml -O .repo/local_manifests/nx404h.xml
 
