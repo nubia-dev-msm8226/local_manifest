@@ -8,4 +8,4 @@ Then to sync up:
 To build:
 
     . build/envsetup.sh
-    brunch cm_NX404H-userdebug
+    brunch lineage_NX404H-userdebug
