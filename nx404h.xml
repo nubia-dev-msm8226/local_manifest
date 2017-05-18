@@ -12,10 +12,6 @@
 <project name="nubia-dev-msm8226/android_kernel_nubia_msm8226" path="kernel/NUBIA/MSM8226" remote="github" revision="mkm" />
 <!-- Linaro 4.8 -->
 <project path="gcc-linaro_4.8.4-2014.114" name="vlw/gcc-linaro_4.8.4-2014.11" revision="master" remote="github" />
-<!-- OpenDelta -->
-<project name="omnirom/android_packages_apps_OpenDelta" path="packages/apps/OpenDelta" remote="github" revision="android-7.1" />
-<!-- Remove CMUpdater -->  
-<remove-project name="LineageOS/android_packages_apps_CMUpdater" />
 <!-- Remove ExactCalculator -->
 <remove-project name="LineageOS/android_packages_apps_ExactCalculator" />
 <!-- Calculator -->  
