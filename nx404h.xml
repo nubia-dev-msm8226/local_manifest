@@ -17,7 +17,7 @@
 <!-- remove cmupdate -->
 <remove-project name="LineageOS/android_packages_apps_CMUpdater" />  
 <!-- Twrp -->
-<project name="omnirom/android_bootable_recovery"                 path="bootable/recovery-twrp"         remote="github" revision="android-7.1" />  
+<project name="omnirom/android_bootable_recovery" path="bootable/recovery-twrp" remote="github" revision="android-7.1" />  
 <!-- Calculator -->  
 <project name="LineageOS/android_packages_apps_Calculator"  path="packages/apps/Calculator"  remote="github" revision="cm-11.0"/>
 </manifest>
