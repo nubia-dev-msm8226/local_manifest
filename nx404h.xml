@@ -14,6 +14,7 @@
 <project name="omnirom/android_packages_apps_OpenDelta" path="packages/apps/OpenDelta" remote="github" revision="android-7.1" />  
 <!-- Remove ExactCalculator -->
 <remove-project name="LineageOS/android_packages_apps_ExactCalculator" />
+<remove-project name="LineageOS/android_packages_apps_CMUpdater" />  
 <!-- Calculator -->  
 <project name="LineageOS/android_packages_apps_Calculator"  path="packages/apps/Calculator"  remote="github" revision="cm-11.0"/>
 </manifest>
