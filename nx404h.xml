@@ -14,6 +14,8 @@
 <project name="omnirom/android_packages_apps_OpenDelta" path="packages/apps/OpenDelta" remote="github" revision="android-7.1" /> 
 <!-- remove cmupdate -->
 <remove-project name="LineageOS/android_packages_apps_CMUpdater" />  
+<remove-project name="LineageOS/android_packages_apps_FMRadio" />  
+<project path="packages/apps/FMRadio" name="LineageOS/android_packages_apps_FMRadio" />  
 <!-- Twrp -->
 <project name="omnirom/android_bootable_recovery" path="bootable/recovery-twrp" remote="github" revision="android-7.1" />  
 <!-- Calculator -->  
