@@ -14,10 +14,6 @@
 <project name="nubia-dev-msm8226/android_kernel_nubia_msm8226" path="kernel/NUBIA/MSM8226" remote="github" revision="mkm" />
 <project name="ultimatum163/android_kernel_nubia_nx507j" path="kernel/nubia/nx507j" remote="github" revision="nougat-7.1" />
 <!-- Ota AIR Updates -->
-<project name="XNUBIA/android_packages_apps_OpenDelta" path="packages/apps/OpenDelta" remote="github" revision="android-7.1" /> 
-<!-- remove cmupdate -->
-<remove-project name="LineageOS/android_packages_apps_CMUpdater" />
-<!-- XNUBIA-Settings_test -->
 <!-- Twrp -->
 <project name="omnirom/android_bootable_recovery" path="bootable/recovery-twrp" remote="github" revision="android-7.1" />  
 <!-- Calculator -->  
