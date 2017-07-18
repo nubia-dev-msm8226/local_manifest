@@ -18,12 +18,6 @@
 <!-- remove cmupdate -->
 <remove-project name="LineageOS/android_packages_apps_CMUpdater" />
 <!-- XNUBIA-Settings_test -->
-<project name="XNUBIA/android_packages_apps_Settings" path="packages/apps/Settings" remote="github" revision="cm-14.1" /> 
-<!-- remove Settings 
-<remove-project name="LineageOS/android_packages_apps_Settings" -->
-  
-<!-- XNUBIA-frameworks_test -->
-<project name="XNUBIA/android_frameworks_base" path="frameworks/base" remote="github" revision="cm-14.1" /> 
 <!-- Twrp -->
 <project name="omnirom/android_bootable_recovery" path="bootable/recovery-twrp" remote="github" revision="android-7.1" />  
 <!-- Calculator -->  
