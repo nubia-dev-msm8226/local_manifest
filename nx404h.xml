@@ -24,8 +24,6 @@
   
 <!-- XNUBIA-frameworks_test -->
 <project name="XNUBIA/android_frameworks_base" path="frameworks/base" remote="github" revision="cm-14.1" /> 
-<!-- remove frameworks -->
-<remove-project name="LineageOS/android_frameworks_base" />
 <!-- Twrp -->
 <project name="omnirom/android_bootable_recovery" path="bootable/recovery-twrp" remote="github" revision="android-7.1" />  
 <!-- Calculator -->  
