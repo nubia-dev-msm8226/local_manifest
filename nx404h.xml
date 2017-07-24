@@ -6,13 +6,10 @@
 <project name="LineageOS/android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" remote="github" revision="cm-14.1" />
 <!-- Vendor Blobs -->
 <project name="nubia-dev-msm8226/android_vendor_nubia_nx404h" path="vendor/NUBIA/NX404H" remote="github" revision="cm14.1" />
-<project name="ultimatum163/android_vendor_nubia_nx507j" path="vendor/nubia/nx507j" remote="github" revision="nougat-7.1" />
 <!-- Device tree -->
 <project name="nubia-dev-msm8226/android_device_nubia_nx404h" path="device/NUBIA/NX404H" remote="github" revision="cm14.1" />
-<project name="ultimatum163/android_device_nubia_nx507j" path="device/nubia/nx507j" remote="github" revision="nougat-7.1" />
 <!-- Kernel -->
 <project name="nubia-dev-msm8226/android_kernel_nubia_msm8226" path="kernel/NUBIA/MSM8226" remote="github" revision="mkm" />
-<project name="ultimatum163/android_kernel_nubia_nx507j" path="kernel/nubia/nx507j" remote="github" revision="nougat-7.1" />
 <!-- Ota AIR Updates -->
 <!-- Twrp -->
 <project name="omnirom/android_bootable_recovery" path="bootable/recovery-twrp" remote="github" revision="android-7.1" />  
