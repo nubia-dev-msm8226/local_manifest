@@ -6,7 +6,7 @@
 <project name="LineageOS/android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" remote="github" revision="cm-14.1" />
 <!-- Vendor Blobs -->
 <project name="nubia-dev-msm8226/android_vendor_nubia_nx404h" path="vendor/NUBIA/NX404H" remote="github" revision="cm14.1" />
-<project name="nubia-dev-msm8226/android_vendor_nubia_x9180" path="vendor/NUBIA/X9180" remote="github" revision="cm-14.1" />
+<project name="nubia-dev-msm8226/android_vendor_nubia_x9180" path="vendor/NUBIA/X9180" remote="github" revision="master" />
 <!-- Device tree -->
 <project name="nubia-dev-msm8226/android_device_nubia_nx404h" path="device/NUBIA/NX404H" remote="github" revision="cm14.1" />
 <project name="nubia-dev-msm8226/android_device_nubia_x9180" path="device/NUBIA/X9180" remote="github" revision="cm-14.1" />
