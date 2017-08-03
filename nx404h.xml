@@ -8,7 +8,7 @@
 <project name="nubia-dev-msm8226/android_vendor_nubia_msm8226" path="vendor/NUBIA/MSM8226" remote="github" revision="cm14.1" />
 <!-- Device tree -->
 <project name="nubia-dev-msm8226/android_device_nubia_nx404h" path="device/NUBIA/NX404H" remote="github" revision="cm14.1" />
-<project name="nubia-dev-msm8226/android_device_nubia_x9180" path="device/NUBIA/X9180" remote="github" revision="cm-14.1" />
+<!--project name="nubia-dev-msm8226/android_device_nubia_x9180" path="device/NUBIA/X9180" remote="github" revision="cm-14.1" />
 <!-- Kernel -->
 <project name="nubia-dev-msm8226/android_kernel_nubia_msm8226" path="kernel/NUBIA/MSM8226" remote="github" revision="mkm" />
 <project name="nubia-dev-msm8226/android_kernel_nubia_msm8226" path="kernel/NUBIA/X9180" remote="github" revision="cm-14.1" /><!-- Ota AIR Updates -->
