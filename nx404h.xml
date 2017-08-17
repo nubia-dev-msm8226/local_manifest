@@ -4,20 +4,7 @@
 <project name="LineageOS/android_external_stlport" path="external/stlport" remote="github" revision="cm-14.1" />
 <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="cm-14.1" />
 <project name="LineageOS/android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" remote="github" revision="cm-14.1" />
-<!-- Vendor Blobs -->
-<project name="nubia-dev-msm8226/android_vendor_nubia_msm8226" path="vendor/NUBIA/MSM8226" remote="github" revision="cm14.1" />
-<!-- Device tree -->
-<project name="nubia-dev-msm8226/android_device_nubia_nx404h" path="device/NUBIA/NX404H" remote="github" revision="cm14.1" />
-<project name="nubia-dev-msm8226/android_device_nubia_x9180" path="device/NUBIA/X9180" remote="github" revision="cm14.1" />
-<!-- Kernel -->
-<project name="nubia-dev-msm8226/android_kernel_nubia_msm8226" path="kernel/NUBIA/MSM8226" remote="github" revision="mkm" />
-<project name="nubia-dev-msm8226/android_kernel_nubia_msm8226" path="kernel/NUBIA/X9180" remote="github" revision="cm-14.1" />
-<!-- Ota AIR Updates -->
 
-<!-- Twrp -->
-<project name="omnirom/android_bootable_recovery" path="bootable/recovery-twrp" remote="github" revision="android-7.1" />  
-<!-- Calculator -->  
-<!-- OpenGapps Project -->
 <remote name="opengapps" fetch="https://github.com/opengapps/"  />
 
 <project path="vendor/google/build" name="aosp_build" revision="master" remote="opengapps" />
