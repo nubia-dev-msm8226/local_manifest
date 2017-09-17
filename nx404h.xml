@@ -14,6 +14,8 @@
 <project name="omnirom/android_bootable_recovery" path="bootable/recovery-twrp" remote="github" revision="android-7.1" />  
 <!-- Calculator -->  
 <!-- OpenGapps Project -->
+  
+<project name="XNUBIA-UI/android_frameworks_base" path="frameworks/base" remote="github" revision= "master" />  
 <remote name="opengapps" fetch="https://github.com/opengapps/"  />
 
 <project path="vendor/google/build" name="aosp_build" revision="master" remote="opengapps" />
