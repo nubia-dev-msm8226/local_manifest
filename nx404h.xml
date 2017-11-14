@@ -1,18 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-<project name="LineageOS/android_device_qcom_common" path="device/qcom/common" remote="github" revision="cm-14.1" />
-<project name="LineageOS/android_external_stlport" path="external/stlport" remote="github" revision="cm-14.1" />
-<project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="cm-14.1" />
-<project name="LineageOS/android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" remote="github" revision="cm-14.1" />
+<project name="LineageOS/android_device_qcom_common" path="device/qcom/common" remote="github" revision="lineage-15.0" />
+<project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-15.0" />
+<project name="LineageOS/android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" remote="github" revision="lineage-15.0" />
 <!-- Vendor Blobs -->
-<project name="XNUBIA/vendor_nubia_ne501j" path="vendor/NUBIA/NE501J" remote="github" revision="master" />
-<project name="XNUBIA/vendor_nubia_nx404h" path="vendor/NUBIA/NX404H" remote="github" revision="master" />
+<project name="XNUBIA/vendor_nubia_ne501j" path="vendor/NUBIA/NE501J" remote="github" revision="8.x" />
 <!-- Device tree -->
-<project name="XNUBIA/device_nubia_ne501j" path="device/NUBIA/NE501J" remote="github" revision="master" />
-<project name="XNUBIA/device_nubia_nx404h" path="device/NUBIA/NX404H" remote="github" revision="master" />  
+<project name="XNUBIA/device_nubia_ne501j" path="device/NUBIA/NE501J" remote="github" revision="8.x" />  
 <!-- Kernel -->
-<project name="XNUBIA/kernel_zte_x9180" path="kernel/NUBIA/X9180" remote="github" revision="master" />
-<project name="nubia-dev-msm8226/android_kernel_nubia_msm8226" path="kernel/NUBIA/NX404H" remote="github" revision="mkm" />
-
-<project path="packages/apps/OTAUpdates" name="MatthewBooth/OTAUpdates" revision="aosp" />  
+<project name="nubia-dev-msm8226/android_kernel_nubia_msm8226" path="kernel/NUBIA/X9180" remote="github" revision="android-8.x" />  
 </manifest>
