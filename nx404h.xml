@@ -8,5 +8,5 @@
 <!-- Device tree -->
 <!--project name="XNUBIA/device_nubia_ne501j" path="device/NUBIA/NE501J" remote="github" revision="8.x" /-->  
 <!-- Kernel -->
-<project name="nubia-dev-msm8226/android_kernel_nubia_msm8226" path="kernel/NUBIA/X9180" remote="github" revision="android-8.x" />  
+<project name="nubia-dev-msm8226/android_kernel_nubia_msm8226" path="kernel/NUBIA/X9180" remote="github" revision="android-8.x-nx404h" />  
 </manifest>
