@@ -1,5 +1,5 @@
     repo init -u git://github.com/LineageOS/android.git -b cm-14.1
-    git clone https://github.com/nubia-dev-msm8226/local_manifest -b cm-14.1 .repo/local_manifests
+    git clone https://github.com/nubia-dev-msm8226/local_manifest -b 8.x .repo/local_manifests
 
 Then to sync up:
 
