@@ -6,7 +6,7 @@
 <!-- Vendor Blobs -->
 <project name="nubia-dev-msm8226/android_vendor_nubia_msm8226" path="vendor/NUBIA/X9180" remote="github" revision="8.x" />
 <!-- Device tree -->
-<project name="nubia-dev-msm8226/ne501j" path="device/NUBIA/NE501J" remote="github" revision="master" />  
+<!--project name="nubia-dev-msm8226/ne501j" path="device/NUBIA/NE501J" remote="github" revision="master" /-->  
 <!-- Kernel -->
 <project name="nubia-dev-msm8226/android_kernel_nubia_msm8226" path="kernel/NUBIA/X9180" remote="github" revision="android-8.1-nx404h" />  
 </manifest>
