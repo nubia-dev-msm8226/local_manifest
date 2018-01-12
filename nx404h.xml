@@ -3,7 +3,7 @@
 <project name="LineageOS/android_device_qcom_common" path="device/qcom/common" remote="github" revision="lineage-15.0" />
 <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-15.0" />
 <project name="LineageOS/android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" remote="github" revision="lineage-15.0" />
-<project name="nubia-dev-msm8226/device_nubia_x9180" path="device/NUBIA/NE501J" remote="github" revision="master" />
+<project name="nubia-dev-msm8226/device_nubia_x9180" path="device/NUBIA/NE501J" remote="github" revision="gs" />
  <!-- Vendor Blobs -->
 <project name="nubia-dev-msm8226/android_vendor_nubia_msm8226" path="vendor/NUBIA/X9180" remote="github" revision="8.x" />
 <!-- Kernel -->
